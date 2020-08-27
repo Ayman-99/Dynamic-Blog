@@ -3,7 +3,7 @@ Full dynamic blog for publishing with control panel
 
 ## Links:
 
-+ [Live Preview](https://bit.ly/2KdReNI)
++ [Live Preview](https://bit.ly/34QxZEn)
 
 ## Quick start
 
