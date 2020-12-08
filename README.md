@@ -3,7 +3,7 @@ Full dynamic blog for publishing with control panel
 
 ## Links:
 
-+ [Live Preview](https://bit.ly/2QtW23n)
++ [Live Preview](http://devayman.tech/blog/)
 
 ## Quick start
 
